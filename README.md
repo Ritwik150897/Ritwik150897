@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritwik Deshmukh</h1>
 <h3 align="center">Aspiring Business Analyst with a robust background in data analytics, web development, and UI/UX design. Skilled in leveraging data to drive business insights and decisions.</h3>
 
-- 🔭 I’m currently working as a **Data Intern**
+- 🔭 I’m currently working as a **Data Analyst**
 
 - 🌱 I’m currently learning **Business and Data Analytics**
 
