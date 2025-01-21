@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ritwik150897.github.io/Ritwik.io/index.html](https://ritwik150897.github.io/Ritwik.io/index.html)
 
-- 📫 How to reach me **ritwik150897@gmail.com**
+- 📫 How to reach me **deritwik@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
