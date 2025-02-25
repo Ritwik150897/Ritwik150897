@@ -1,19 +1,108 @@
-<h1 align="center">Hi 👋, I'm Ritwik Deshmukh</h1>
-<h3 align="center">Business & Data Analyst with a robust background in data analytics, web development, and UI/UX design. Skilled in leveraging data to drive business insights and decisions.</h3>
+# Ritwik Deshmukh  
+San Francisco, CA | [deritwik@yahoo.com](mailto:deritwik@yahoo.com) | [Ritwik.io](https://ritwik150897.github.io/Ritwik.io/index.html) | [LinkedIn](https://www.linkedin.com/in/ritwikdeshmukh/) | [GitHub](https://github.com/Ritwik150897)  
 
-- 🔭 I’m currently working as a **Business Data Analyst**
+---
 
-- 👨‍💻 All of my projects are available at [https://ritwik150897.github.io/Ritwik.io/index.html](https://ritwik150897.github.io/Ritwik.io/index.html)
+## 🏢 PROFESSIONAL EXPERIENCE  
 
-- 📫 How to reach me **deritwik@yahoo.com**
+### **Business Data Analyst**  
+📍 *Agile Datapro Inc., Campbell, USA* 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ritwikdeshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritwikdeshmukh" height="30" width="40" /></a>
-<a href="https://instagram.com/uidi0t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uidi0t" height="30" width="40" /></a>
-</p>
+📅 *Nov 2024 - Present*  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- Developed an **AI-powered recruiting co-pilot** using **machine learning** and **NLP** in partnership with **Microsoft** to enhance recruitment.  
+- Created **4 Power BI dashboards** using **Excel, SQL, Power Query, and DAX** to analyze job-seeking trends and skill clusters.  
+- Built an **innovative candidate ranking system** using **Python Flask** and **OpenAI APIs** based on 7 parameters.  
+- **Streamlined data storage** for **13,000+ candidates** using **Azure Cloud and Azure DevOps (Blob Storage)** for efficient data management.  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritwik150897&show_icons=true&locale=en&layout=compact" alt="ritwik150897" /></p>
+### **Data Analyst Intern**  
+📍 *Golden Gate University, San Francisco, USA* 
+
+📅 *May 2024 - Aug 2024*  
+
+- Automated **admissions processing** by developing an **AI model** to clean and transform **1,000+ records**.  
+- Improved **data quality** using **NumPy, Pandas, Scikit-Learn, and FuzzyWuzzy**, achieving a **13% accuracy improvement**.  
+- Built **2 Power BI dashboards** to analyze **student demographics and trends** for marketing strategies.  
+
+### **Front-End Developer**  
+📍 *Yapsody India Pvt. Ltd., Mumbai, IN* 
+
+📅 *Oct 2022 - Jun 2023*  
+
+- Developed and maintained the **front end of 3 Yapsody apps** using **JavaScript, React, and Next.js**.  
+- Introduced **2 major product features** by collaborating with Business Analysts and Product Owners.  
+- Created **interactive Tableau Dashboards** to analyze user behavior, feature adoption, and performance metrics.  
+- Conducted **A/B testing, user testing, and bug fixing**, while managing **GitHub version control**.  
+
+### **UI/UX Designer**  
+📍 *Buzo Media Services (ZukuX), Nagpur, IN* 
+
+📅 *Apr 2022 - Sep 2022*  
+
+- Consulted on **web solutions for 5 clients**, conducting **market analysis** and **user research** to create **12+ new products**.  
+- Designed **user interfaces for 10+ websites** using **Adobe XD, Figma, and Sketch**.  
+- Led a team of **3-4 members** in **wireframing, prototyping, and creating mockups**.  
+- Established **design standards and style guides** for typography, color palettes, and iconography.  
+
+---
+
+## 🎓 EDUCATION  
+
+- **Master of Science in Business Analytics** 
+- **Bachelor of Engineering in Computer Engineering**  
+
+---
+
+## 🔬 PROJECTS  
+
+### **Profit Vista** (*Data Mining, Data Analysis, Visualization*)   
+- Developed a **Power BI dashboard** using **DAX** and **SQL** to analyze **4 years of sales data** for profitability insights.  
+
+### **Movie Recommendation System** (*Machine Learning, Predictive Modeling*)  
+- Built a **movie recommendation system** using **Python and SQL**, leveraging **TF-IDF vectorization and cosine similarity**.  
+
+### **Global Superstore Dashboard** (*Data Visualization*)   
+- Created an **interactive Tableau dashboard** to uncover **customer behavior trends** from a retail dataset.  
+
+### **Diabetes Prediction in Females** (*Machine Learning, Statistical Analysis*)  
+- Deployed an **SVM predictive model** in **Python**, achieving a **78% accuracy score**.  
+
+### **From Clicks to Kicks** (*Product Analytics, Business Intelligence*)  
+- Conducted **Nike product analysis** using **R and Tableau** to study **web traffic and sales trends**.
+    
+### **Portfolio Website** (*Web Development*)  
+- Developed a **minimalist, responsive portfolio website** using **HTML5, CSS3, and JavaScript** for **dynamic project showcases**.  
+
+### **Yapsody Campaigns** (*Front-End Development*)  
+- Developed and optimized the **front-end of Yapsody apps** using **React, Next.js, Redux, and Saga**, improving **performance and user experience**.  
+
+### **Google Keep Clone** (*Front-End Development*)  
+- Cloned the **Front End of the Google Keep App** using **React.js, HTML5, CSS3, Bootstrap, and JavaScript**.  
+
+### **HealthCare Dashboard** (*Front-End Development*)  
+- Built a **responsive healthcare dashboard** using **React.js, HTML5, CSS3, and Chart.js**, integrating **REST APIs** to display **patient diagnosis history**.  
+
+### **Institute Management App** (*ERP System Development*)  
+- Developed an **ERP system** for **managing educational institute activities**, using **React, HTML5, CSS3, JavaScript, Bootstrap, and MySQL**.  
+
+### **Global Superstore Dashboard** (*Data Visualization*)  
+- Uncovered **customer behavior trends** by constructing an **interactive Tableau dashboard** to analyze **retail dataset insights**.
+  
+---
+
+## 🛠 SKILLS  
+
+- **Programming & Data Science:** Python, R, SQL  
+- **Data Visualization:** Tableau, Power BI  
+- **Tools & Platforms:** Microsoft Excel, PowerPoint, Google Suite  
+- **Data Analysis & Machine Learning:** Data Gathering, Data Mining, ETL, Predictive Modeling, Statistical Analysis  
+- **Business & Product Analytics:** Business Intelligence, KPI Tracking, Agile Methodologies, SCRUM  
+- **Software & Collaboration:** Atlassian JIRA, GitHub, CRM, Salesforce  
+
+---
+
+## 🔗 LINKS  
+
+- [Portfolio](https://ritwik150897.github.io/Ritwik.io/index.html)  
+- [LinkedIn](https://www.linkedin.com/in/ritwikdeshmukh/)  
+- [GitHub](https://github.com/Ritwik150897)   
