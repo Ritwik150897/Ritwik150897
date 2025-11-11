@@ -18,56 +18,6 @@ San Francisco, CA | [deritwik@yahoo.com](mailto:deritwik@yahoo.com) | [Ritwik.io
 ---
 [![](https://visitcount.itsvg.in/api?id=Ritwik150897&icon=1&color=9)](https://visitcount.itsvg.in)
 
-## 🏢 PROFESSIONAL EXPERIENCE  
-
-### **Business Data Analyst**  
-📍 *Agile Datapro Inc., Campbell, USA* 
-
-📅 *Nov 2024 - Present*  
-
-- Developed an **AI-powered recruiting co-pilot** using **machine learning** and **NLP** in partnership with **Microsoft** to enhance recruitment.  
-- Created **4 Power BI dashboards** using **Excel, SQL, Power Query, and DAX** to analyze job-seeking trends and skill clusters.  
-- Built an **innovative candidate ranking system** using **Python Flask** and **OpenAI APIs** based on 7 parameters.  
-- **Streamlined data storage** for **13,000+ candidates** using **Azure Cloud and Azure DevOps (Blob Storage)** for efficient data management.  
-
-### **Data Analyst Intern**  
-📍 *Golden Gate University, San Francisco, USA* 
-
-📅 *May 2024 - Aug 2024*  
-
-- Automated **admissions processing** by developing an **AI model** to clean and transform **1,000+ records**.  
-- Improved **data quality** using **NumPy, Pandas, Scikit-Learn, and FuzzyWuzzy**, achieving a **13% accuracy improvement**.  
-- Built **2 Power BI dashboards** to analyze **student demographics and trends** for marketing strategies.  
-
-### **Front-End Developer**  
-📍 *Yapsody India Pvt. Ltd., Mumbai, IN* 
-
-📅 *Oct 2022 - Jun 2023*  
-
-- Developed and maintained the **front end of 3 Yapsody apps** using **JavaScript, React, and Next.js**.  
-- Introduced **2 major product features** by collaborating with Business Analysts and Product Owners.  
-- Created **interactive Tableau Dashboards** to analyze user behavior, feature adoption, and performance metrics.  
-- Conducted **A/B testing, user testing, and bug fixing**, while managing **GitHub version control**.  
-
-### **UI/UX Designer**  
-📍 *Buzo Media Services (ZukuX), Nagpur, IN* 
-
-📅 *Apr 2022 - Sep 2022*  
-
-- Consulted on **web solutions for 5 clients**, conducting **market analysis** and **user research** to create **12+ new products**.  
-- Designed **user interfaces for 10+ websites** using **Adobe XD, Figma, and Sketch**.  
-- Led a team of **3-4 members** in **wireframing, prototyping, and creating mockups**.  
-- Established **design standards and style guides** for typography, color palettes, and iconography.  
-
----
-
-## 🎓 EDUCATION  
-
-- **Master of Science in Business Analytics** 
-- **Bachelor of Engineering in Computer Engineering**  
-
----
-
 ## 🔬 PROJECTS  
 
 ### **Profit Vista** (*Data Mining, Data Analysis, Visualization*)   
