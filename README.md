@@ -1,6 +1,5 @@
 # Ritwik Deshmukh  
-San Francisco, CA | [deritwik@yahoo.com](mailto:deritwik@yahoo.com) | [Ritwik.io](https://ritwik150897.github.io/Ritwik.io/index.html) | [LinkedIn](https://www.linkedin.com/in/ritwikdeshmukh/) | [GitHub](https://github.com/Ritwik150897)  
-
+San Francisco, CA | [deritwik@yahoo.com](mailto:deritwik@yahoo.com) | [Ritwik.io](https://ritwik150897.github.io/Ritwik.io/index.html)
 ---
 
 # 💫 About Me:
